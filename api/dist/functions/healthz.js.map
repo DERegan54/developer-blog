@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/functions/healthz.js"],
+  "sourcesContent": ["// render-health-check\nexport const handler = async () => {\n  return {\n    statusCode: 200,\n  }\n}"],
+  "mappings": ";;;;;;;;;;;;;;;;;AAAA;;;;;AACO,MAAMA,UAAU,YAAY;AACjC,SAAO;IACLC,YAAY;EACd;AACF;",
+  "names": ["handler", "statusCode"]
+}
